@@ -1,0 +1,28 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://media.istockphoto.com/vectors/barbershop-haircut-and-shave-equipment-icons-vector-id1174788418?k=20&m=1174788418&s=612x612&w=0&h=H4NVmM2qu_FBAPpaYmjrXJ0U8GnL0gQqH7UYtr_YuuU=');
+    background-size: cover;
+  }
+
+
+.section1, .section2 {
+    display:flex;
+    justify-content: space-around;
+
+} 
+
+.space1, .space2 {
+    height: 20px;
+}
+
+img {
+    height: 300px;
+    
+}
+
+.space3 {
+   height: 50px;
+}
